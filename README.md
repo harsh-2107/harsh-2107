@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
+<h1 align="center">Hi, I'm Harsh Jaiswal</h1>
 <h3 align="center">Computer Science Student | Aspiring Data Scientist | Web Dev Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
+- 🎓 B.Tech Computer Science & Enginnering (Specialization in AI/ML)
 - 💻 Strong interest in **Data Structures & Algorithms**
 - 🌐 Learning **Full Stack Web Development**
 - 🧠 Aspiring **Machine Learning & Data Science Engineer**
