@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
-<h3 align="center">Computer Science Student | DSA Enthusiast | Aspiring ML Engineer</h3>
+<h3 align="center">Computer Science Student | Aspiring Data Scientist | Web Dev Enthusiast</h3>
 
 ---
 
